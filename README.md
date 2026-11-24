@@ -1,2 +1,3 @@
-# apk-apk-studio-fixed
-apk-studio-fixed — APK Studio
+# apk-studio-fixed
+
+APK Studio yordamida yaratilgan. Har bir push APK yig'ilishini boshlaydi (Actions → Releases).
